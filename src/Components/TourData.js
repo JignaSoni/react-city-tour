@@ -38,7 +38,7 @@ export const tourData =[
     },
     {
         id: 6,
-        city: "New York",
+        city: "India",
         img: "./img/Tajmahal.jpeg",
         name: "Taj Mahal",
         info: "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra."
